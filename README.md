@@ -86,6 +86,6 @@ Data visualization and storytelling
 
 ![image_alt](https://github.com/kunigiriajay25/Data-Analysis-Project/blob/main/Screenshot%202025-11-28%20125311.png)
 
-![image_alt]
+![image_alt](https://github.com/kunigiriajay25/Data-Analysis-Project/blob/main/Screenshot%202025-11-28%20125634.png)
 
-![image_alt]
+![image_alt](https://github.com/kunigiriajay25/Data-Analysis-Project/blob/main/Screenshot%202025-11-28%20130210.png)
